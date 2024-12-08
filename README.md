@@ -1,1 +1,1 @@
-Repository with Homeworks from the ML Course
+Repository with Tasks from the ML Course
